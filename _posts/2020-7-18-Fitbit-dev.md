@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pushing a simple clock app to a Fitbit Watch
+published: true
 ---
 
 In this post, we will give you the simple steps to create a Fitbit clockface app, compile it, and push it to a Fitbit Watch.  While it seems intuitive when you are done, I found that I had to poke at it, while reading the somewhat limited docs, before it all worked.
